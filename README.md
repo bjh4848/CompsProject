@@ -1,8 +1,6 @@
 # CompsMaster
- 
-# CompsMaster
- 
-# Code Overview
+
+## Code Overview
 Features:
 - Kinematic Player Controller
 - Raycast Hit Detection
@@ -17,7 +15,7 @@ The player character's position is then transformed with the x and z variables. 
 
 ---
 
-# Replication Instructions
+## Replication Instructions
 
 1. This project was made with Unity, and thus requires Unity Hub in order to function. Which can be downloaded [here](https://unity.com/download).
 2. This project was developed with Unity LTS *2021.3.14f1* and will work best in the corresponding version. Using a version earlier or later could cause it to break.
